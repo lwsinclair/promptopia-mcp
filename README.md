@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lumile-promptopia-mcp-badge.png)](https://mseep.ai/app/lumile-promptopia-mcp)
+
 # Promptopia MCP
 [![smithery badge](https://smithery.ai/badge/@lumile/promptopia-mcp)](https://smithery.ai/server/@lumile/promptopia-mcp)
 
